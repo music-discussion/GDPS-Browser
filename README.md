@@ -14,7 +14,7 @@ Colon's code is pretty bad, but I can't be talking.
 If you're just here to use GDPS Browser locally because the site is down or blocked or restricted or god knows what, this is the only part you really need to read
 
 
-To run GDBrowser locally:
+To run GDPS Browser locally:
 1) Install [node.js](https://nodejs.org/en/download/) if you don't already have it
 2) Clone/download this repository  
 3) Open cmd/powershell/terminal in the main folder (with index.js)
