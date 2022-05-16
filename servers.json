@@ -17,6 +17,7 @@
     "author": "hypertxt",
     "authorLink": "https://google.com",
     "id": "hypergdps",
+    "downloadsDisabled": true,
     "endpoint": "https://ps.fhgdps.com/hyperGDPS721/"
   },
   {
