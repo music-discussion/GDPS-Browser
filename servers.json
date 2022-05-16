@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Geometry Dash",
+    "link": "https://store.steampowered.com/app/322170/Geometry_Dash/",
+    "author": "RobTop",
+    "authorLink": "https://www.youtube.com/channel/UCz_yk8mDSAnxJq0ar66L4sw",
+    "id": "",
+    "endpoint": "http://www.boomlings.com/database/",
+    "timestampSuffix": " ago",
+    "demonList": "https://pointercrate.com/",
+    "downloadsDisabled": true,
+    "pinned": true
+  },
+  {
+    "name": "Hyper GDPS",
+    "link": "https://ps.fhgdps.com/hyperGDPS721/",
+    "author": "hypertxt",
+    "authorLink": "https://google.com",
+    "id": "hypergdps",
+    "endpoint": "https://ps.fhgdps.com/hyperGDPS721/"
+  },
+  {
+    "name": "Zyann GDPS",
+    "link": "https://zyannxyz.7m.pl/gd/database/tools/",
+    "author": "ItzZyann",
+    "authorLink": "https://google.com",
+    "id": "zyanngdps",
+    "endpoint": "http://zyannxyz.7m.pl/gd/database/"
+  },
+  {
+    "name": "Discussions GDPS",
+    "link": "https://ps.fhgdps.com/mndiscussion/",
+    "author": "discussions",
+    "authorLink": "https://www.youtube.com/channel/UCAawAIWR5XfJE6T0JdYpzzg",
+    "id": "mndiscussionsgdps",
+    "endpoint": "https://ps.fhgdps.com/mndiscussion/"
+  },
+  {
+    "name": "WTF29 GDPS",
+    "link": "https://ps.fhgdps.com/wtf29lol2977/",
+    "author": "wtftwentynine",
+    "authorLink": "https://google.com",
+    "id": "wtfgdps",
+    "endpoint": "https://ps.fhgdps.com/wtf29lol2977/"
+  }
+]
