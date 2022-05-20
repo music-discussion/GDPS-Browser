@@ -1,20 +1,20 @@
-
-# GDBrowser
-
-  
-
-Uh... so I've never actually used GitHub before this. But I'll try to explain everything going on here.
+[![Run on Repl.it](https://repl.it/badge/github/music-discussion/GDPS-Browser)](https://repl.it/github/music-discussion/GDPS-Browser)
+# GDPS Browser
 
   
 
-Sorry for my messy code. It's why I was skeptical about making this open source, but you know what, the code runs fine in the end.
+I've used github a lot, so this should be really easy.
+
+  
+
+Colon's code is pretty bad, but I can't be talking.
 
   
   ## How do I run this?
-If you're just here to use GDBrowser locally because the site is down or blocked or restricted or god knows what, this is the only part you really need to read
+If you're just here to use GDPS Browser locally because the site is down or blocked or restricted or god knows what, this is the only part you really need to read
 
 
-To run GDBrowser locally:
+To run GDPS Browser locally:
 1) Install [node.js](https://nodejs.org/en/download/) if you don't already have it
 2) Clone/download this repository  
 3) Open cmd/powershell/terminal in the main folder (with index.js)
@@ -29,10 +29,10 @@ If you want to disable rate limits, ip forwarding, etc you can do so by modifyin
 ## Using this for a GDPS?
 
 ~~I mean, sure. Why not.~~
-Hold up, wait a minute... private servers are an official feature now!
+Hold up, wait a minute... thats what this is for!!
 
 
-If you would like to add your GDPS to GDBrowser, [fill out this quick form](https://forms.gle/kncuRqyKykQX42QD7) and I'll be happy to add it (provided the server is relatively large and active)
+If you would like to add your GDPS to GDPS Browser, [fill out this quick form](https://forms.gle/mc77U9KpJM3AFm8v8) and I'll be happy to add it (provided the server is good and active)
   
   
 If you 100% insist on adding a private server to your own magical little fork, you can do so by adding it to **servers.json**. Simply add a new object to the array with the following information:
@@ -66,7 +66,7 @@ There's also a few optional values for fine-tuning. I'll add more over time
 
   
 
-GDBrowser has a lot of folders. [citation needed]
+GDPS Browser has a lot of folders. [citation needed]
 
 I pride myself in keeping my files neat, without doing the whole `src/main/data/stuff/code/homework/newfolder/util/actualcode` garbage 
 
