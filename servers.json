@@ -8,8 +8,7 @@
     "endpoint": "http://www.boomlings.com/database/",
     "timestampSuffix": " ago",
     "demonList": "https://pointercrate.com/",
-    "downloadsDisabled": true,
-    "pinned": true
+    "downloadsDisabled": true
   },
   {
     "name": "Hyper GDPS",
@@ -24,24 +23,33 @@
     "name": "Zyann GDPS",
     "link": "https://zyannxyz.7m.pl/gd/database/tools/",
     "author": "ItzZyann",
-    "authorLink": "https://google.com",
-    "id": "zyanngdps",
+    "authorLink": "https://www.youtube.com/c/ItzZyannYT/featured,
+    "id": "zgdps",
     "endpoint": "http://zyannxyz.7m.pl/gd/database/"
   },
   {
     "name": "Discussions GDPS",
-    "link": "https://ps.fhgdps.com/mndiscussion/",
+    "link": "https://drive.google.com/drive/folders/1XnIZZrSVQ089Zyvq4Z16oh-XyvKZKB6S",
     "author": "discussions",
     "authorLink": "https://www.youtube.com/channel/UCAawAIWR5XfJE6T0JdYpzzg",
     "id": "dgdps",
-    "endpoint": "https://ps.fhgdps.com/mndiscussion/"
+    "endpoint": "https://ps.fhgdps.com/mndiscussion/",
+    "pinned": true
   },
   {
     "name": "WTF29 GDPS",
     "link": "https://ps.fhgdps.com/wtf29lol2977/",
     "author": "wtftwentynine",
     "authorLink": "https://google.com",
-    "id": "wtfgdps",
+    "id": "wtf29",
     "endpoint": "https://ps.fhgdps.com/wtf29lol2977/"
+  },
+  {
+    "name": "MoonRevivial",
+    "link": "https://discord.gg/seNryTnnsQ",
+    "author": "Supreme",
+    "authorLink": "https://www.youtube.com/channel/UCmG1XhkcLC_Wm1sk8HrwtTQ",
+    "id": "moonr",
+    "endpoint": "http://ps.fhgdps.com/MoonRevival1/"
   }
 ]
