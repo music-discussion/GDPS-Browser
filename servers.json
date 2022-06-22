@@ -51,5 +51,21 @@
     "authorLink": "https://www.youtube.com/channel/UCmG1XhkcLC_Wm1sk8HrwtTQ",
     "id": "moonr",
     "endpoint": "http://ps.fhgdps.com/MoonRevival1/"
+  },
+  {
+    "name": "TGDPS",
+    "link": "https://tgdps.tal9988.repl.co/",
+    "author": "TAL9988",
+    "authorLink": "https://youtube.com/channel/UCWjXGZDFyFPHsPyOPiw54gg",
+    "id": "tgdps",
+    "endpoint": "http://ps.fhgdps.com/Tal99887gdps/"
+  },
+  {
+    "name": "GDPS 2.2 PC",
+    "link": "https://discord.io/GDPS-22-PC",
+    "author": "user666",
+    "authorLink": "https://www.youtube.com/channel/UCpgyf8EpL62WyDM2jWo4v1w",
+    "id": "228",
+    "endpoint": "http://gdps22pc.webq2e.ru/server-/"
   }
 ]
